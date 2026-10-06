@@ -16,7 +16,7 @@ public class heyProgrammer {
         // Regression tests
         String al = heyProgrammer.greet("alvin");
         String ja= heyProgrammer.greet("jason");
-        
+    
 
         if(!al.equals("hey alvin"))
             {System.out.println("Test Case Failed");}
